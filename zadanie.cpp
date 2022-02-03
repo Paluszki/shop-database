@@ -26,5 +26,6 @@ int main()
 	wyjscie.close();
 	cout<<"Podane dane sa dostepne w pliku tekstowym: dane";
 	return 0;
+	
 }
 
